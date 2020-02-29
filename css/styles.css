@@ -192,3 +192,58 @@ body {
     grid-column: auto / span 2;
     grid-row: auto / span 2;
 }
+
+.a34 {
+    grid-column: auto / span 2;
+    grid-row: auto / span 1;
+    background-color: black;
+}
+
+.a35 {
+    grid-column: auto / span 2;
+    grid-row: auto / span 2;
+    background-color: yellow;
+}
+
+.a36 {
+    grid-column: auto / span 1;
+    grid-row: auto / span 2;
+}
+
+.a37 {
+    grid-column: auto / span 1;
+    grid-row: auto / span 2;
+    background-color: yellow;
+}
+
+.a38 {
+    grid-column: auto / span 1;
+    grid-row: auto / span 2;
+}
+
+.a39 {
+    grid-column: auto / span 2;
+    grid-row: auto / span 2;
+    background-color: red;
+}
+
+.a40 {
+    grid-column: auto / span 3;
+    grid-row: auto / span 1;
+}
+
+.a41 {
+    grid-column: auto / span 2;
+    grid-row: auto / span 1;
+    background-color: yellow;
+}
+
+.a42 {
+    grid-column: auto / span 3;
+    grid-row: auto / span 1;
+}
+
+.a43 {
+    grid-column: auto / span 2;
+    grid-row: auto / span 1;
+}
