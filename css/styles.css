@@ -1,0 +1,42 @@
+body {
+    margin: 100px;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(50px, 1fr));
+    grid-auto-rows: 50px;
+    color: gray;
+    grid-auto-flow: dense;
+    border: 5px solid black;
+}
+
+.box {
+    background-color: white;
+    border: 2px solid black;
+}
+
+.a01 {
+    grid-column: auto / span 2;
+}
+
+.a02 {
+    grid-column: auto / span 3;
+}
+
+.a03 {
+    grid-column: auto / span 2;
+    background-color: yellow;
+}
+
+.a04 {
+    grid-column: auto / span 2;
+    grid-row: auto / span 2;
+    background-color: blue;
+}
+
+.a05 {
+    grid-column: auto / span 1;
+    grid-row: auto / span 1;
+    background-color: yellow;
+}
