@@ -40,3 +40,41 @@ body {
     grid-row: auto / span 1;
     background-color: yellow;
 }
+
+.a06 {
+    grid-column: auto / span 1;
+    grid-row: auto / span 1;
+    background-color: black;
+}
+
+.a07 {
+    grid-column: auto / span 3;
+}
+
+.a08 {
+    grid-column: auto / span 1;
+    grid-row: auto / span 2;
+}
+
+.a09 {
+    grid-column: 2 / span 4;
+    grid-row: 2 / span 4;
+    background-color: red;
+}
+
+.a10 {
+    grid-column: auto / span 2;
+    grid-row: auto / span 2;
+    background-color: yellow;
+}
+
+.a11 {
+    grid-column: auto / span 2;
+    grid-row: auto / span 1;
+    background-color: yellow;
+}
+
+.a12 {
+    grid-column: auto / span 2;
+    grid-row: auto / span 2;
+}
